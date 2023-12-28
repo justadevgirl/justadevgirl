@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning how to implement API pulls into websites
 - 💞️ I’m looking to collaborate on cool things :) 
 - 📫 How to reach me:
--     Twitter [@justadevgirl](https://twitter.com/justadevgirl)
--     Instagram [@adevgirl](https://www.instagram.com/adevgirl)
+- Twitter [@justadevgirl](https://twitter.com/justadevgirl)
+  
+- Instagram [@adevgirl](https://www.instagram.com/adevgirl)
 
 <!---
 justadevgirl/justadevgirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
