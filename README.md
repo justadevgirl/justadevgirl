@@ -1,4 +1,4 @@
-#  ✨ I’m Janet 🌸✨
+#  ✨🌸 I’m Just a Dev Girl 🌸✨
 
 ## Full Stack Developer
 
@@ -55,8 +55,6 @@
 - Twitter [@justadevgirl](https://twitter.com/justadevgirl)
   
 - Instagram [@adevgirl](https://www.instagram.com/adevgirl)
-
-- [LinkedIn](https://www.linkedin.com/janet-phan)
 
 - [Email](mailto:devgirljanet@gmail.com)
 
