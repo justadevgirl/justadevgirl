@@ -4,6 +4,7 @@
 
 - 🌱 I’m trying to get my foot into the tech door
 - 💞️ I’m looking to collaborate on cool things :)
+- 🌱 Currently learning: Cybersecurity, AWS, & APIs
 
 ## Education
 **CodeSquad** Jan 2024 -  May 2024
