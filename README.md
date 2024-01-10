@@ -1,6 +1,4 @@
-#  ✨ I’m @justadevgirl 🌸✨
-
-![Profile photo of justadevgirl](https://avatars.githubusercontent.com/u/145465439?v=4)
+#  ✨ I’m Janet 🌸✨
 
 ## Full Stack Developer
 
